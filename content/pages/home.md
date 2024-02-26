@@ -20,7 +20,7 @@ blocks:
     image:
       src: /uploads/unsplash-75EFpyXu3Wg.jpg
       alt: >-
-        Photo of palm trees at sunset by Adam Birkett -
+        Photo of palm trees at sunsetasdsadasdas by Adam Birkett -
         unsplash.com/photos/75EFpyXu3Wg
     color: default
     _template: hero
@@ -56,6 +56,4 @@ blocks:
     color: primary
     _template: testimonial
 ---
-
-
 
